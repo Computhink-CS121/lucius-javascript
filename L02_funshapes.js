@@ -29,7 +29,7 @@ function setup() {
   fill(200, 150, 100);
   rect(200, 200, 200, 150);
 
-  // Roof
+  
   fill(150, 75, 0);
   triangle(200, 200, 300, 120, 400, 201);
 
@@ -37,7 +37,7 @@ function setup() {
   fill(120, 80, 40);
   rect(285, 280, 30, 70);
 
-  // Windows
+  
   fill(255);
   rect(230, 230, 40, 40);
   rect(330, 230, 40, 40);
