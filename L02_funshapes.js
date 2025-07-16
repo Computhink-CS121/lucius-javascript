@@ -57,7 +57,7 @@ function setup() {
 
 function draw(){
   
-} fill(300, 150, 250)
+} fill(300, 150, 250);
 
 
 
