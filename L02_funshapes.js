@@ -25,10 +25,22 @@ function setup() {
 
   // Challenge 3: A house using rect() function
   function draw(){
-    fill(255,0,0):
-    ellipse(50,50,100,100);
-    circle(200, 50, 100);
-    rect(300, 50, 100, 100);
+   // House body
+  fill(200, 150, 100);
+  rect(200, 200, 200, 150);
+
+  // Roof
+  fill(150, 75, 0);
+  triangle(200, 200, 300, 120, 400, 200);
+
+  // Door
+  fill(120, 80, 40);
+  rect(285, 280, 30, 70);
+
+  // Windows
+  fill(255);
+  rect(230, 230, 40, 40);
+  rect(330, 230, 40, 40);
 
   // Challenge 4: A rocketship using triangle() function
 
