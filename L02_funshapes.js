@@ -42,9 +42,9 @@ function setup() {
   // rect(230, 230, 40, 40);
   // rect(330, 230, 40, 40);
 
-  function draw(){
-    fill(200,150,100);
-    triangle(200, 200, 300, 120, 400, 201);
+  // function draw(){
+  //   fill(200,150,100);
+  //   triangle(200, 200, 300, 120, 400, 201);
 
   // Challenge 4: A rocketship using triangle() function
 
@@ -53,9 +53,11 @@ function setup() {
   // Challenge 6: Add some colours to the drawings in the above challenges
 
   // Challenge 7: Create a funny Pokemon
+
+
+function draw(){
+  // Your drawing code goes here.
 }
-
-
 
 
 
