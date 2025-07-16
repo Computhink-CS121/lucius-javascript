@@ -14,7 +14,7 @@ function draw() {
   rect(150, 40, 55, 50, 20);
 
   //give each corner a different radius.
-  rect(30, 20, 55, 50, 20, )
+  rect(30, 20, 55, 50, 20, 15, 10, 5)
   // Challenge
   // Challenge 1: An 
   // eye using ellipse() function
