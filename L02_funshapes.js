@@ -2,16 +2,16 @@
 Task 1: Add the setup() function
 */
 
-function setup() {
-  createCanvas(600, 400);
-  background(240); // 0 to 225 gray tone
-}
+// function setup() {
+//   createCanvas(600, 400);
+//   background(240); // 0 to 225 gray tone
+// }
 
-function draw() {
-  rect(50, 50, 100, 75);
+// function draw() {
+//   rect(50, 50, 100, 75);
 
-  //Give all corners a radius of 20.
-  rect(150, 40, 55, 50, 20);
+//   //Give all corners a radius of 20.
+//   rect(150, 40, 55, 50, 20);
 
   //give each corner a different radius.
   rect(30, 20, 55, 50, 20, 15, 10, 5);
@@ -27,7 +27,8 @@ function draw() {
   function draw(){
     fill(255,0,0);
     ellipse(50,50,100,100);
-}
+    circle(200, 50, 100);
+    rect(300, 50, 100, 100);
 
   // Challenge 4: A rocketship using triangle() function
 
