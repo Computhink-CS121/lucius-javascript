@@ -14,33 +14,37 @@ function setup() {
 //   rect(150, 40, 55, 50, 20);
 
   //give each corner a different radius.
-  rect(30, 20, 55, 50, 20, 15, 10, 5);
-  // Challenge
-  // Challenge 1: An 
-  // eye using ellipse() function
+  // rect(30, 20, 55, 50, 20, 15, 10, 5);
+  // // Challenge
+  // // Challenge 1: An 
+  // // eye using ellipse() function
 
 
 
-  // Challenge 2: A face using circle() function
+  // // Challenge 2: A face using circle() function
 
-  // Challenge 3: A house using rect() function
-  function draw(){
+  // // Challenge 3: A house using rect() function
+  // function draw(){
    
-  fill(200, 150, 100);
-  rect(200, 200, 200, 150);
+  // fill(200, 150, 100);
+  // rect(200, 200, 200, 150);
 
   
-  fill(150, 75, 0);
-  triangle(200, 200, 300, 120, 400, 201);
+  // fill(150, 75, 0);
+  // triangle(200, 200, 300, 120, 400, 201);
 
   
-  fill(120, 80, 40);
-  rect(285, 280, 30, 70);
+  // fill(120, 80, 40);
+  // rect(285, 280, 30, 70);
 
   
-  fill(255);
-  rect(230, 230, 40, 40);
-  rect(330, 230, 40, 40);
+  // fill(255);
+  // rect(230, 230, 40, 40);
+  // rect(330, 230, 40, 40);
+
+  function draw(){
+    fill(200,150,100);
+    triangle(200, 200, 300, 120, 400, 201);
 
   // Challenge 4: A rocketship using triangle() function
 
