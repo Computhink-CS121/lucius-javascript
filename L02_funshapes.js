@@ -27,7 +27,7 @@ function setup() {
   function draw(){
     fill(255,0,0);
     ellipse(50,50,100,100);
-    circle(200, 50, 100);
+    circle(200, 50, 100):
     rect(300, 50, 100, 100);
 
   // Challenge 4: A rocketship using triangle() function
