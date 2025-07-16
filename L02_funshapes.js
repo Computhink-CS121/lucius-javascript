@@ -18,12 +18,16 @@ function draw() {
   // Challenge
   // Challenge 1: An 
   // eye using ellipse() function
-  
+
 
 
   // Challenge 2: A face using circle() function
 
   // Challenge 3: A house using rect() function
+  function draw(){
+    fill(255,0,0);
+    ellipse(50,50,100,100);
+}
 
   // Challenge 4: A rocketship using triangle() function
 
