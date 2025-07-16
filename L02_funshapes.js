@@ -31,7 +31,7 @@ function setup() {
 
   // Roof
   fill(150, 75, 0);
-  triangle(200, 200, 300, 120, 400, 200);
+  triangle(200, 200, 300, 120, 400, 201);
 
   // Door
   fill(120, 80, 40);
