@@ -25,7 +25,7 @@ function setup() {
 
   // Challenge 3: A house using rect() function
   function draw(){
-   // House body
+   
   fill(200, 150, 100);
   rect(200, 200, 200, 150);
 
@@ -33,7 +33,7 @@ function setup() {
   fill(150, 75, 0);
   triangle(200, 200, 300, 120, 400, 201);
 
-  // Door
+  
   fill(120, 80, 40);
   rect(285, 280, 30, 70);
 
