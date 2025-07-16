@@ -56,8 +56,9 @@ function setup() {
 
 
 function draw(){
-  // Your drawing code goes here.
+  
 }
+
 
 
 
