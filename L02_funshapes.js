@@ -66,7 +66,7 @@ function draw() {
 
   // Challenge 7: Create a funny Pokemon
 }//pikachu
-
+nostroke();
 
 
 
