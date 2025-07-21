@@ -12,7 +12,7 @@ let circleD =80;
 
 
   circle( posx,150,80);
-  circle(150,150,80);
+  circle(130,150,80);
   circle(230,150,80);
   circle(320,150,80);
 
