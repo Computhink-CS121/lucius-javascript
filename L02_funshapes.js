@@ -54,7 +54,7 @@ function setup() {
 
   // Challenge 7: Create a funny Pokemon
 
-strokeweight(10)
+strokeweight(10);
 function draw(){
   
 } fill(300, 150, 250);
