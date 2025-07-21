@@ -7,7 +7,7 @@ function setup() {
   background(240); // 0 to 225 gray tone
 }
 
-// function draw() {
+function draw() {
 //   rect(50, 50, 100, 75);
 
 //   //Give all corners a radius of 20.
@@ -26,23 +26,23 @@ function setup() {
   // // Challenge 3: A house using rect() function
   // function draw(){
    
-  fill(200, 150, 100);
-  rect(200, 200, 200, 150);
+  // fill(200, 150, 100);
+  // rect(200, 200, 200, 150);
 
   
-  fill(150, 75, 0);
-  triangle(200, 200, 300, 120, 400, 201);
+  // fill(150, 75, 0);
+  // triangle(200, 200, 300, 120, 400, 201);
 
   
-  fill(120, 80, 40);
-  rect(285, 280, 30, 70);
+  // fill(120, 80, 40);
+  // rect(285, 280, 30, 70);
 
   
-  fill(255);
-  rect(230, 230, 40, 40);
-  rect(330, 230, 40, 40);
+  // fill(255);
+  // rect(230, 230, 40, 40);
+  // rect(330, 230, 40, 40);
 
-function draw() {
+
   // House
   // fill(200, 150, 100);
   // rect(200, 200, 200, 150);
