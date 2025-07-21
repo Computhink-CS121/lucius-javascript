@@ -70,7 +70,7 @@ function draw() {
 fill(150, 75, 0);
    triangle(200, 200, 300, 120, 400, 201);
    
-fill(red)
+
 fill('red'); // This sets the fill color to red
 ellipse(200, 200, 600, 600);
 }
