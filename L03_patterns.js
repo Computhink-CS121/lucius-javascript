@@ -6,7 +6,6 @@ function setup() {
   
 function draw() {
   // Recap 1: Repeating Circles
-  function draw(){
 
   circle(50,150,80);
   circle(140,150,80);
@@ -21,4 +20,3 @@ function draw() {
   // Task 3: Row of Circles
 
   // Task 4: Grid of Circles
-}
