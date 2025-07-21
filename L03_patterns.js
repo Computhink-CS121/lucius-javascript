@@ -10,7 +10,7 @@ let posx =50;
 let posY =150;
 let circleD =80;
 
-for (let i=0; i<5;)
+for (let i=0; i<5; i++)
   circle( posx,posY,circleD);
   circle(140,150,80);
   circle(230,150,80);
