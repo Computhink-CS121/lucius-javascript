@@ -44,18 +44,18 @@ function setup() {
 
 function draw() {
   // House
-  fill(200, 150, 100);
-  rect(200, 200, 200, 150);
+  // fill(200, 150, 100);
+  // rect(200, 200, 200, 150);
 
-  fill(150, 75, 0);
-  triangle(200, 200, 300, 120, 400, 201);
+  // fill(150, 75, 0);
+  // triangle(200, 200, 300, 120, 400, 201);
 
-  fill(120, 80, 40);
-  rect(285, 280, 30, 70);
+  // fill(120, 80, 40);
+  // rect(285, 280, 30, 70);
 
-  fill(255);
-  rect(230, 230, 40, 40);
-  rect(330, 230, 40, 40);
+  // fill(255);
+  // rect(230, 230, 40, 40);
+  // rect(330, 230, 40, 40);
 
   // Add your other drawing challenges here
   // Challenge 4: A rocketship using triangle() function
