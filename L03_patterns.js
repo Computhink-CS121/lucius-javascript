@@ -11,9 +11,7 @@ let posY =150;
 let circleD =80;
 
 
-  circle( posx,15
-    
-    ,80);
+  circle( posx,posY,);
   circle(140,150,80);
   circle(230,150,80);
   circle(320,150,80);
