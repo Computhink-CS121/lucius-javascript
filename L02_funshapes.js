@@ -65,14 +65,14 @@ function draw() {
   // Challenge 6: Add some colours to the drawings in the above challenges
 
   // Challenge 7: Create a funny Pokemon
-}//pikachu
+//pikachu
 
 fill(150, 75, 0);
    triangle(200, 200, 300, 120, 400, 201);
 
 
 
-
+}
 
 
 
