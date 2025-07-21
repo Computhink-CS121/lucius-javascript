@@ -12,7 +12,7 @@ let circleD =100;
 
 for (let i=0; i<5; i++)
 
-  posx = posxm
+  posx = posx 
   circle( posx,posY,circleD);
   circle(140,150,80);
   circle(230,150,80);
