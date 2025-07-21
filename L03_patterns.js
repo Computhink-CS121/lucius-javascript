@@ -9,7 +9,7 @@ function draw() {
 let posx =50;
 let posY =150;
 let circleD =100;
-fill(black)
+let colourB =0
 for (let i=0; i<5; i++)
 
   posx = posx +
