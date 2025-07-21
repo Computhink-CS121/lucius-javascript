@@ -26,26 +26,38 @@ function setup() {
   // // Challenge 3: A house using rect() function
   // function draw(){
    
-  // fill(200, 150, 100);
-  // rect(200, 200, 200, 150);
+  fill(200, 150, 100);
+  rect(200, 200, 200, 150);
 
   
-  // fill(150, 75, 0);
-  // triangle(200, 200, 300, 120, 400, 201);
+  fill(150, 75, 0);
+  triangle(200, 200, 300, 120, 400, 201);
 
   
-  // fill(120, 80, 40);
-  // rect(285, 280, 30, 70);
+  fill(120, 80, 40);
+  rect(285, 280, 30, 70);
 
   
-  // fill(255);
-  // rect(230, 230, 40, 40);
-  // rect(330, 230, 40, 40);
+  fill(255);
+  rect(230, 230, 40, 40);
+  rect(330, 230, 40, 40);
 
-  // function draw(){
-  //   fill(200,150,100);
-  //   triangle(200, 200, 300, 120, 400, 201);
+function draw() {
+  // House
+  fill(200, 150, 100);
+  rect(200, 200, 200, 150);
 
+  fill(150, 75, 0);
+  triangle(200, 200, 300, 120, 400, 201);
+
+  fill(120, 80, 40);
+  rect(285, 280, 30, 70);
+
+  fill(255);
+  rect(230, 230, 40, 40);
+  rect(330, 230, 40, 40);
+
+  // Add your other drawing challenges here
   // Challenge 4: A rocketship using triangle() function
 
   // Challenge 5: A square face using quad() function
@@ -53,11 +65,7 @@ function setup() {
   // Challenge 6: Add some colours to the drawings in the above challenges
 
   // Challenge 7: Create a funny Pokemon
-
-strokeweight(10);
-function draw(){
-  
-} fill(300, 150, 250);
+}
 
 
 
