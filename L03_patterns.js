@@ -13,6 +13,7 @@ let colourB =0
 for (let i=0; i<5; i++)
 fill(colourB);
   posx = posx +
+  
   circle( posx,posY,circleD);
   circle(140,150,80);
   circle(230,150,80);
