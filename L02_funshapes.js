@@ -67,9 +67,8 @@ function draw() {
   // Challenge 7: Create a funny Pokemon
 }//pikachu
 nostroke();
-fill(yellow);
 fill(150, 75, 0);
-  // triangle(200, 200, 300, 120, 400, 201);
+   triangle(200, 200, 300, 120, 400, 201);
 
 
 
