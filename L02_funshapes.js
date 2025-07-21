@@ -67,13 +67,13 @@ function draw() {
   // Challenge 7: Create a funny Pokemon
 //pikachu
 
-fill(150, 75, 0);
-   triangle(200, 200, 300, 120, 400, 201);
+// fill(150, 75, 0);
+//    triangle(200, 200, 300, 120, 400, 201);
    
 
-fill('red'); // This sets the fill color to red
-ellipse(200, 200, 600, 600);
-}
+// fill('red'); // This sets the fill color to red
+// ellipse(200, 200, 600, 600);
+// }
 
 
 
