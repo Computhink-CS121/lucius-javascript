@@ -68,7 +68,7 @@ function draw() {
 }//pikachu
 nostroke();
 fill(yellow);
-ellipse(300,200,200,200);
+ellipse(300,200,200,200); 
 circle(300, 200,100)
 
 
