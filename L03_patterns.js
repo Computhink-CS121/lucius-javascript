@@ -9,8 +9,8 @@ function draw() {
   function draw(){
 
   circle(50,150,80);
-  circle(160,150,80);
-  circle(270,150,80);
+  circle(140,150,80);
+  circle(230,150,80);
   circle(380,150,80);
 
   }
