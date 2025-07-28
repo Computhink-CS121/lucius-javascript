@@ -30,6 +30,6 @@ circle(mouseX, mouseY, 50);
 function mousePressed() {
     fill("red");
 }
-function mouseReleased() {}
-
-}
+function mouseReleased() {
+    fill("blue");
+}                             
