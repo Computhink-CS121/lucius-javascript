@@ -36,7 +36,7 @@ function mouseReleased() {
 }                             
 
 
-let shape 
+let shapeColor = "red"
 
 
 
