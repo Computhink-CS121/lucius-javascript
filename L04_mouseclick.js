@@ -23,7 +23,8 @@ function draw() {
 // circle(xpos, ypos, 50);
 // xpos = xpos + 50;
 // ypos = ypos + 50;
-noStroke()
+noStroke();
+fill
 circle(mouseX, mouseY, 50);
 
 }
