@@ -23,9 +23,10 @@ function draw() {
 // circle(xpos, ypos, 50);
 // xpos = xpos + 50;
 // ypos = ypos + 50;
-noStroke();
-fill(5, 50);
-circle(mouseX, mouseY, 50);
+// noStroke();
+// fill(5, 50);
+// circle(mouseX, mouseY, 50);
+
 }
 function mousePressed() {
     fill("red");
