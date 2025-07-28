@@ -24,7 +24,7 @@ circle(xpos, ypos, 50);
 xpos = xpos + 50;
 ypos = ypos + 50;
 
-circle()
+circle(mouseX)
 
 }
 }
