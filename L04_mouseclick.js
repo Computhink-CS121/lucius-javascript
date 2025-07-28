@@ -2,10 +2,28 @@
 
 
 function setup() {
-
+createcanvas(600,400); // width, height
+background(220);
 
 
 
 
 }
-functiondraw()
+function draw() {
+    let r = 0;
+
+    let g = 0;
+    let b = 0;
+    let xpos = 0;
+    let ypos = 0;
+ // put your code inside here
+for (let i = 0; i < 5; i++) {
+fill(r,g,b);
+g=g + 50
+circle(xpos, ypos, 50);
+xpos = xpos + 50;
+ypos = ypos + 50;
+
+
+}
+}
