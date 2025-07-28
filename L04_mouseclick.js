@@ -14,8 +14,8 @@ function draw() {
 
     let g = 0;
     let b = 0;
-    let xpos = 0;
-    let ypos = 0;
+    let xpos = 50;
+    let ypos = 50;
  // put your code inside here
 for (let i = 0; i < 5; i++) {
 fill(r,g,b);
