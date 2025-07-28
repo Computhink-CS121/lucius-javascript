@@ -42,7 +42,7 @@ fill("black");
   rect(xpos, ypos, 50, 50);
 xpos = xpos + 60;
 rect(0,50, width, 50);
-circle(wirdth/2, height)
+circle(wirdth/2, height/2, 100)
 }
 
 }
