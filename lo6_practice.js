@@ -15,16 +15,20 @@ function draw(){
     if (KeyIsDown(RIGHT_ARROW)){
         posx = posy + 5;
     }
+if (KeyIsDown(LEFT_ARROW)){
+        posx = posy - 5;
 
-    
 }
 
+if (KeyIsDown(UP_ARROW)){
+        posx = posy - 5;
 
+}
+if (KeyIsDown(DOWN_ARROW)){
+        posx = posy - 5;
 
+}
 
- 
+posx = constrain(posy, 0, width - 30);
 
-
-
-
-
+}
