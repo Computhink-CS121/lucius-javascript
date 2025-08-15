@@ -13,7 +13,7 @@ bgmusic = loadsound('assets/.mp3');}
 function setup(){
     createCanvas(600,400);
     background("lightblue");
-
+bgmusic.loop()
 }
 // draw()
 function draw(){
