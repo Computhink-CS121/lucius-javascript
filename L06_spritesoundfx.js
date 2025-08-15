@@ -3,7 +3,8 @@
 
 let picoImg;
 
-?
+// preload()
+
 
 
 
