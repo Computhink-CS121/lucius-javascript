@@ -88,7 +88,7 @@ function setup(){
 
 function draw(){
     background(220);
-    rect(posx,posy, 30, 30);
+    image(picoImg, 300, 200, 110, 133);
 
     if (keyIsDown(RIGHT_ARROW)){
         posx = posx + 5;
