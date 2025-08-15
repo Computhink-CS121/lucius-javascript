@@ -6,14 +6,14 @@ let picoImg, bgmusic;
 // preload()
 function preload(){
     picoImg = loadImage('assets/pico-a.png');
-bgmusic = loadsound('assets/.mp3');}
+bgmusic = loadsound('assets/bossaNova.mp3');}
 
 
 // setup()
 function setup(){
     createCanvas(600,400);
     background("lightblue");
-bgmusic.loop()
+bgmusic.loop();
 }
 // draw()
 function draw(){
