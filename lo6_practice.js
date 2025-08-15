@@ -20,11 +20,11 @@ if (KeyIsDown(LEFT_ARROW)){
 
 }
 
-if (KeyIsDown(UP_ARROW)){
+if (keyIsDown(UP_ARROW)){
         posy = posy - 5;
 
 }
-if (KeyIsDown(DOWN_ARROW)){
+if (keyIsDown(DOWN_ARROW)){
         posy = posy - 5;
 
 }
