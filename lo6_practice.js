@@ -15,6 +15,8 @@ function draw(){
     if (KeyIsDown(RIGHT_ARROW)){
         posx = posy + 5;
     }
+
+    
 }
 
 
