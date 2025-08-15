@@ -26,17 +26,29 @@ function draw() {
 // noStroke();
 // fill(5, 50);
 // circle(mouseX, mouseY, 50);
- circle(width/2, height/2, 100);
+//  circle(width/2, height/2, 100);
+// }
+// function mousePressed() {
+//     fill("red");
+// }
+// function mouseReleased() {
+//     fill("blue");
+// }                             
+// function mousePressed() {
+// fill(shapeColor)
+// let shapeColor = "red";
+
+// shapeColor = color( random(255), random(255), random(255) );
 }
-function mousePressed() {
-    fill("red");
+noStroke();
+function mouseDragged() {
+    circle(mouseX, mouseY, 25);
+
 }
-function mouseReleased() {
-    fill("blue");
-}                             
 
 
-let shapeColor = "red"
+
+
 
 
 
