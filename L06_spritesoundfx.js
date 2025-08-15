@@ -26,7 +26,12 @@ function draw(){
 bgmusic.loop()
 
 
-
+function keyPressed(){
+    soundpop.play();
+}
+function mousePressed(){
+    soundpop.play();
+}
 
 
 
