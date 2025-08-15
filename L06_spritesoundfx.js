@@ -77,7 +77,7 @@
 
 
 
-
+let posx, posy;
 
 
 function setup(){
