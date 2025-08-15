@@ -28,8 +28,7 @@ function setup(){
 
     }
 
-    posx = constrain(posx, 0, width - 30);
-    posy = constrain(posy, 0, width - 30);
+   
 
 bgmusic.loop();
 }
