@@ -23,7 +23,7 @@ function draw(){
         posy = posy - 5;
     }
     if (keyIsDown(DOWN_ARROW)){
-        posy = posy - 5;
+        posy = posy + 5;
 
     }
 
