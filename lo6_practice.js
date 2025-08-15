@@ -1,10 +1,16 @@
+let posx, posy;
+
+
+
 function setup(){
 createCanvas(400, 400);
+posx = width / 2;
+posy = height / 2;
 }
 
 function draw(){
   background(220);
-Rect(200,200, 30, 30);
+Rect(pos200,200, 30, 30);
 
 
 
