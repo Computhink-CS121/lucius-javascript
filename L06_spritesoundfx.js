@@ -10,9 +10,16 @@ function preload(){
 
 
 // setup()
+function setup(){
+    createCanvas(600,400);
+    background("lightblue");
 
+}
 // draw()
+function draw(){
 
+    image(picoImg, 300, 200, 110, 133);
+}
 
 
 
