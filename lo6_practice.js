@@ -27,6 +27,6 @@ function draw(){
 
     }
 
-    posx = constrain(posy, 0, width - 30);
+    posx = constrain(posx, 0, width - 30);
 
 }
