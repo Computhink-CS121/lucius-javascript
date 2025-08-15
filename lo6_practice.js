@@ -15,7 +15,7 @@ function draw(){
     if (keyIsDown(RIGHT_ARROW)){
         posx = posx+ 5;
     }
-if (KKkeyIsDown(LEFT_ARROW)){
+if (keyIsDown(LEFT_ARROW)){
         posx = posx - 5;
 
 }
