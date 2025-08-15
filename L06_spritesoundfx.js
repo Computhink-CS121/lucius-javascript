@@ -7,6 +7,8 @@ let picoImg;
 
 // setup()
 
+// draw()
+
 
 
 
