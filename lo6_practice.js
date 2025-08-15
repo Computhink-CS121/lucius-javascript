@@ -12,6 +12,10 @@ function draw(){
   background(220);
 Rect(posx,posy, 30, 30);
 
+if (keyIsDown(RIGHT_ARROW)){
+    posx = posy + 5;
+}
+
 
 
 
