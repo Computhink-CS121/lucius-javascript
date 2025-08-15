@@ -5,6 +5,7 @@ let picoImg;
 
 // preload()
 
+// setup()
 
 
 
