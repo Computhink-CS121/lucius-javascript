@@ -12,7 +12,7 @@ function draw(){
     background(220);
     rect(posx,posy, 30, 30);
 
-    if (KeyIsDown(RIGHT_ARROW)){
+    if (keyIsDown(RIGHT_ARROW)){
         posx = posy + 5;
     }
 if (KeyIsDown(LEFT_ARROW)){
