@@ -1,7 +1,7 @@
 // write your codes here
 
 
-let picoImg;
+let picoImg, bgmusic
 
 // preload()
 function preload(){
