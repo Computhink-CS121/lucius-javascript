@@ -1,6 +1,6 @@
 // write your codes here
 
-let soundpop
+let soundpop;
 let picoImg, bgmusic;
 
 // preload()
