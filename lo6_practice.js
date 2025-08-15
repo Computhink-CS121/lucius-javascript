@@ -10,7 +10,7 @@ posy = height / 2;
 
 function draw(){
   background(220);
-Rect(pos200,200, 30, 30);
+Rect(posx,posy,200,200, 30, 30);
 
 
 
