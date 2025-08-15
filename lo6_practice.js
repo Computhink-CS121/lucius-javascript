@@ -25,7 +25,7 @@ if (KeyIsDown(UP_ARROW)){
 
 }
 if (KeyIsDown(DOWN_ARROW)){
-        posx = posy - 5;
+        posy = posy - 5;
 
 }
 
