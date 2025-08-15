@@ -79,7 +79,9 @@ let picoImg
 
 let posx, posy;
 
-
+function preload(){
+    picoImg = loadImage('assets/pico-a.png')
+    bgmusic = loadSound('assets/bossaNova.mp3');}
 function setup(){
     createCanvas(400, 400);
     posx = width / 2;
