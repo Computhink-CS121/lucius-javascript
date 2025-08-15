@@ -4,7 +4,9 @@
 let picoImg;
 
 // preload()
-function preload(){}
+function preload(){
+    picoImg = loadImage('assets/pico-a.png');
+}
 
 
 // setup()
