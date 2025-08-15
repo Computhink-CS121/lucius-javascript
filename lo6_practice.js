@@ -16,12 +16,12 @@ function draw(){
         posx = posx+ 5;
     }
 if (KeyIsDown(LEFT_ARROW)){
-        posx = posy - 5;
+        posx = posx - 5;
 
 }
 
 if (KeyIsDown(UP_ARROW)){
-        posx = posy - 5;
+        posy = posy - 5;
 
 }
 if (KeyIsDown(DOWN_ARROW)){
