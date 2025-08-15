@@ -19,6 +19,24 @@ bgmusic.loop();
 function draw(){
 
     image(picoImg, 300, 200, 110, 133);
+    if (keyIsDown(RIGHT_ARROW)){
+        posx = posx + 5;
+    }
+    if (keyIsDown(LEFT_ARROW)){
+            posx = posx - 5;
+    }
+
+    if (keyIsDown(UP_ARROW)){
+        posy = posy - 5;
+    }
+    if (keyIsDown(DOWN_ARROW)){
+        posy = posy + 5;
+
+    }
+
+    posx = constrain(posx, 0, width - 30);
+    posy = constrain(posy, 0, width - 30);
+
 }
 
 
