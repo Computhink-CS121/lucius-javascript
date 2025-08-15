@@ -13,7 +13,7 @@ function draw(){
     rect(posx,posy, 30, 30);
 
     if (keyIsDown(RIGHT_ARROW)){
-        posx = posy + 5;
+        posx = posx+ 5;
     }
 if (KeyIsDown(LEFT_ARROW)){
         posx = posy - 5;
