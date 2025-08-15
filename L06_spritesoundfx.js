@@ -6,7 +6,7 @@ let picoImg, bgmusic;
 // preload()
 function preload(){
     picoImg = loadImage('assets/pico-a.png');
-bgmusic = loadsound('assets/pico-a.png');}
+bgmusic = loadsound('assets/.mp3');}
 
 
 // setup()
