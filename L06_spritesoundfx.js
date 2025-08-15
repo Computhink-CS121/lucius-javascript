@@ -1,14 +1,9 @@
 // write your codes here
 
 
+let picoImg;
 
-
-
-
-
-let picoImg
-
-
+?
 
 
 
