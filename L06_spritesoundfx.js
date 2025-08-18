@@ -110,6 +110,12 @@ function draw(){
 
     posx = constrain(posx, 0, width - 30);
     posy = constrain(posy, 0, width - 30);
+    preload()
+function preload(){
+    picoImg = loadImage('assets/pico-a.png');
+bgmusic = loadSound('assets/bossaNova.mp3');}
+soundpop = loadsound('assets/pop.mp3');
+
 }
 
 
