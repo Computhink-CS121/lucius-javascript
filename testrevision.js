@@ -5,7 +5,8 @@
 
 
 let y=100
-let w = 
+let w = 30;
+
 function setup() {
     createCanvas(800, 600);
     background("steelblue");
