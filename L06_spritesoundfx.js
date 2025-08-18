@@ -83,7 +83,6 @@ function preload(){
     picoImg = loadImage('assets/pico-a.png')
 function setup(){
     createCanvas(400, 400);
-    bgMusic.loop();
     posx = width / 2;
     posy = height / 2;
 }
