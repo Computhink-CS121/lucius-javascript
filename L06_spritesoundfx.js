@@ -75,7 +75,7 @@
 
 
 
-let soundEffect, bgMusic, picoImg
+let soundEffect, bgMusic, picoImg;
 
 let posx, posy;
 
