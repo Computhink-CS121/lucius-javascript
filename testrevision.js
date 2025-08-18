@@ -15,7 +15,7 @@ function setup() {
 
 }
 function draw() {
-    fill('red');
+    fill('gray');
     // triangle(350, 200, 200, 300, 350, 350)
     for (let count=0; count<4; count++)  {
         x =x+40;
