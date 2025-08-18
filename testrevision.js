@@ -21,8 +21,8 @@ function draw() {
      fill('gray');
         rect(x, y, w, h)
         x =x+40;
-        let gray = gray+ 50;
         rect(x, y, w, h)
+        let gray = gray+ 50;
     }
     
 }
