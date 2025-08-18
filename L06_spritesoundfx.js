@@ -109,7 +109,7 @@ function draw(){
         posy = posy + 5;
 
     }
-
+    function keyPressed()
     posx = constrain(posx, 0, width - 30);
     posy = constrain(posy, 0, width - 30);
 
