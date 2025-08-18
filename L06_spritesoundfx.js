@@ -81,12 +81,13 @@ let posx, posy;
 
 function preload(){
     picoImg = loadImage('assets/pico-a.png')
+}
 function setup(){
     createCanvas(400, 400);
     posx = width / 2;
     posy = height / 2;
 }
-}
+
 function draw(){
     background(220);
     image(picoImg, posx, posy, 110, 133);
