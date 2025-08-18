@@ -109,18 +109,19 @@ function draw(){
         posy = posy + 5;
 
     }
-    function keyPressed() {
-        if (keyCode === 32){
-            soundEffect.play();
-
-        }
-    }
+  
+    
     posx = constrain(posx, 0, width - 30);
     posy = constrain(posy, 0, width - 30);
 
 
 }
 
+  function keyPressed() {
+        if (keyCode === 32){
+            soundEffect.play();
+        }
+}
 
 
 
