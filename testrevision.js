@@ -4,7 +4,8 @@ function setup() {
 
 }
 function draw() {
-    fill('red')
+    fill('red');
+    WebTransportDatagramDuplexStream()
 }
 
 
