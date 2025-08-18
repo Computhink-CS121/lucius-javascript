@@ -82,7 +82,7 @@ let posx, posy;
 function preload(){
     picoImg = loadImage('assets/pico-a.png')
     soundEffect = loadSound('assets/pop.mp3')
-    bgMusic = loadSound('assets/bossaNova.mp3')
+    bgMusic = loadSound('assets/ star_wars_theme_8_bit.mp3');
 }
 function setup(){
     createCanvas(400, 400);
