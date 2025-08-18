@@ -6,7 +6,7 @@
 
 let y=100
 let w = 30;
-let gray
+let gray = gray +
 function setup() {
     createCanvas(800, 600);
     background("steelblue");
