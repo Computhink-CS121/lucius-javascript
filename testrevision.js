@@ -4,7 +4,7 @@
 
 
 
-
+let y=100
 
 function setup() {
     createCanvas(800, 600);
