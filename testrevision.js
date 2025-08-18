@@ -6,7 +6,8 @@
 
 let y=100
 let w = 30;
-let h=3
+let h=30;
+let gray
 
 function setup() {
     createCanvas(800, 600);
