@@ -19,7 +19,7 @@ function draw() {
     // triangle(350, 200, 200, 300, 350, 350)
     for (let count=0; count<4; count++)  {
         x =x+40;
-        let gray = gray+ 40;
+        let gray = gray+ 50;
         Rect(x, y, w, h)
     }
     
