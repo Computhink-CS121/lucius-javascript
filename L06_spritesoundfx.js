@@ -81,7 +81,7 @@ let posx, posy;
 
 function preload(){
     picoImg = loadImage('assets/pico-a.png')
-    soundEffect = loadsound('assets/pop.mp3')
+    soundEffect = loadSound('assets/pop.mp3')
     bgMusic = loadsound('assets/bossaNova.mp3')
     
 }
