@@ -75,7 +75,7 @@
 
 
 
-let picoImg
+let soundEffpicoImg
 
 let posx, posy;
 
