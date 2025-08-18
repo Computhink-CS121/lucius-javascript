@@ -81,6 +81,7 @@ let posx, posy;
 
 function preload(){
     picoImg = loadImage('assets/pico-a.png')
+    soundeffec
 }
 function setup(){
     createCanvas(400, 400);
