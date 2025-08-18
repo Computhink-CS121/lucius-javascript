@@ -7,7 +7,7 @@
 let y=100
 let w = 30;
 let h=30;
-let gray
+let gray = 0;
 
 function setup() {
     createCanvas(800, 600);
