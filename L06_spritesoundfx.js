@@ -109,7 +109,11 @@ function draw(){
         posy = posy + 5;
 
     }
-    function keyPressed()
+    function keyPressed() {
+        if (keyCode === 32){
+
+        }
+    }
     posx = constrain(posx, 0, width - 30);
     posy = constrain(posy, 0, width - 30);
 
