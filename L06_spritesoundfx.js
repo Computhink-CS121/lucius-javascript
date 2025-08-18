@@ -84,7 +84,7 @@ function preload(){
     bgmusic = loadSound('assets/bossaNova.mp3');}
 function setup(){
     createCanvas(400, 400);
-    bg
+    bgMusic.loop()
     posx = width / 2;
     posy = height / 2;
 }
