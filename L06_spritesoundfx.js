@@ -83,6 +83,7 @@ function preload(){
     picoImg = loadImage('assets/pico-a.png')
     soundEffect = loadSound('assets/pop.mp3')
     bgMusic = loadSound('assets/bossaNova.mp3')
+    second
 }
 function setup(){
     createCanvas(400, 400);
