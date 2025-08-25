@@ -110,8 +110,9 @@ function draw(){
     if (keyIsDown(DOWN_ARROW)){
         posy = posy + 5;
 
-        let w =110
+        let w =110;
         let h =133;
+        i
 //image(secondguy, 200, 200, 96, 128);
     }
   
