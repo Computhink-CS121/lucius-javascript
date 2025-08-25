@@ -109,6 +109,8 @@ function draw(){
     }
     if (keyIsDown(DOWN_ARROW)){
         posy = posy + 5;
+
+        let
 //image(secondguy, 200, 200, 96, 128);
     }
   
