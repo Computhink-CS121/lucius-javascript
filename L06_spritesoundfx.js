@@ -112,7 +112,7 @@ function draw(){
 
         let w =110;
         let h =133;
-        i
+        image()
 //image(secondguy, 200, 200, 96, 128);
     }
   
