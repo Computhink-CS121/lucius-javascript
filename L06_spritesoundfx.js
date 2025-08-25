@@ -109,7 +109,7 @@ function draw(){
     }
     if (keyIsDown(DOWN_ARROW)){
         posy = posy + 5;
-//image(secondguy, 200, 
+//image(secondguy, 200, 200, 96, 128);
     }
   
     
