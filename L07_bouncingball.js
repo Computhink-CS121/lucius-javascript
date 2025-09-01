@@ -19,7 +19,7 @@ x = x -5
 if (x < 25) {
     X = 25;
 }
-if (keyIs(LEFT_ARROW)) {
+if (keyIsDown(Right_ARROW)) {
 x = x -5
 }
 
