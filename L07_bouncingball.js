@@ -7,3 +7,4 @@ background(80);
 }
 
 
+function draw() {}
