@@ -11,5 +11,5 @@ background(80);
 
 function draw() {
     background(80);
-    circle(x)
+    circle(x, height/2, 50)
 }
