@@ -98,7 +98,7 @@ function setup(){
 
 function draw(){
     background(220);
-    image(picoImg, posx, posy, 110, 133);
+    
         
         image(picoImg, posx, posy, 110, 133);
 
