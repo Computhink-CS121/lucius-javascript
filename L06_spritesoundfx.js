@@ -22,7 +22,9 @@ function setup() {
 }
 
 
-
+function draw () {
+    
+}
 
 
 
