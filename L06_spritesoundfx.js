@@ -30,7 +30,10 @@ function draw () {
     Image(staticImage, x, y, w, h);
 
 
-    Image(secondguy, secondguyX, secondguyY, )
+    Image(secondguy, secondguyX, secondguyY, 96,128);
+
+
+    
 }
 
 
