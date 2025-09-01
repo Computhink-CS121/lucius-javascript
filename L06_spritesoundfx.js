@@ -25,7 +25,9 @@ function setup() {
 function draw () {
     background("lightblue")
 
-    let w 
+    let w =110;
+    let h =133;
+    
 }
 
 
