@@ -83,7 +83,7 @@ let soundEffect, bgMusic, picoImg;
 let posx, posy;
 
 function preload(){
-    picoImg = loadImage('assets/squirrel.png')
+    staticImage = loadImage('assets/squirrel.png')
     soundEffect = loadSound('assets/pop.mp3')
     bgMusic = loadSound('assets/bossaNova.mp3')
     secondguy = loadImage('assets/squirrel.png');
