@@ -11,4 +11,6 @@ background(80);
 function draw() {
     background(80);
     circle(x, height/2, 50);
+
+if (keyIsDown(LEFT_ARROW)) {}
 }
