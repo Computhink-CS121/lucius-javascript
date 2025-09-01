@@ -21,6 +21,7 @@ if (x < 25) {
 }
 if (keyIsDown(Right_ARROW)) {
 x = x +5
+X = 25;
 }
 
 if (x < 25) {
