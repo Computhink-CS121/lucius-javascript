@@ -9,7 +9,7 @@ let secondguyY = 200;
 
 
 function preload() {
-    soundEffect = loadsound("asses")
+    soundEffect = loadsound("assets/pop.mp3")
 }
 
 
