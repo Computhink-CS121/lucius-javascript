@@ -8,6 +8,10 @@ let secondguyX = 200;
 let secondguyY = 200;
 
 
+function preload() {
+    
+}
+
 
 
 
