@@ -1,6 +1,6 @@
 // write your codes here
 let x = 200;
-
+let Y =
    
 function setup() {
 createCanvas(600,400); // width, height
