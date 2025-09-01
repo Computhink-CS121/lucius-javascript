@@ -1,72 +1,72 @@
-// write your codes here
 
-// let soundpop;
+
+let soundpop;
 // let picoImg, bgmusic;
 
-// // preload()
-// function preload(){
-//     picoImg = loadImage('assets/pico-a.png');
-// bgmusic = loadSound('assets/bossaNova.mp3');}
-// soundpop = loadsound('assets/pop.mp3');
+// preload()
+function preload(){
+    picoImg = loadImage('assets/pico-a.png');
+bgmusic = loadSound('assets/bossaNova.mp3');}
+soundpop = loadsound('assets/pop.mp3');
 
-// // setup()
-// function setup(){
-//     createCanvas(600,400);
-//     background("lightblue");
-//     if (keyIsDown(RIGHT_ARROW)){
-//         posx = posx + 5;
-//     }
-//     if (keyIsDown(LEFT_ARROW)){
-//             posx = posx - 5;
-//     }
+// setup()
+function setup(){
+    createCanvas(600,400);
+    background("lightblue");
+    if (keyIsDown(RIGHT_ARROW)){
+        posx = posx + 5;
+    }
+    if (keyIsDown(LEFT_ARROW)){
+            posx = posx - 5;
+    }
 
-//     if (keyIsDown(UP_ARROW)){
-//         posy = posy - 5;
-//     }
-//     if (keyIsDown(DOWN_ARROW)){
-//         posy = posy + 5;
+    if (keyIsDown(UP_ARROW)){
+        posy = posy - 5;
+    }
+    if (keyIsDown(DOWN_ARROW)){
+        posy = posy + 5;
 
-//     }
+    }
 
    
 
-// bgmusic.loop();
-// }
-// // draw()
-// function draw(){
+bgmusic.loop();
+}
+// draw()
+function draw(){
 
-//     image(picoImg, 300, 200, 110, 133);
-//     if (keyIsDown(RIGHT_ARROW)){
-//         posx = posx + 5;
-//     }
-//     if (keyIsDown(LEFT_ARROW)){
-//             posx = posx - 5;
-//     }
+    image(picoImg, 300, 200, 110, 133);
+    if (keyIsDown(RIGHT_ARROW)){
+        posx = posx + 5;
+    }
+    if (keyIsDown(LEFT_ARROW)){
+            posx = posx - 5;
+    }
 
-//     if (keyIsDown(UP_ARROW)){
-//         posy = posy - 5;
-//     }
-//     if (keyIsDown(DOWN_ARROW)){
-//         posy = posy + 5;
+    if (keyIsDown(UP_ARROW)){
+        posy = posy - 5;
+    }
+    if (keyIsDown(DOWN_ARROW)){
+        posy = posy + 5;
 
-//     }
+    }
 
-//     posx = constrain(posx, 0, width - 30);
-//     posy = constrain(posy, 0, width - 30);
+    posx = constrain(posx, 0, width - 30);
+    posy = constrain(posy, 0, width - 30);
 
-// }
-
-
-
-// bgmusic.loop()
+}
 
 
-// function keyPressed(){
-//     soundpop.play();
-// }
-// function mousePressed(){
-//     soundpop.play();
-// }
+
+bgmusic.loop()
+
+
+function keyPressed(){
+    soundpop.play();
+}
+function mousePressed(){
+    soundpop.play();
+}
 
 
 
@@ -100,7 +100,8 @@ function draw(){
         let h =133;
         image(picoImg, posx, posy, 110, 133);
         secondguyY = 200;
-        secondguyX = 
+        secondguyX = 200;
+
 if (keyIsDown(87)){
        secondguyY = secondguyY - 5
     if (keyIsDown(RIGHT_ARROW)){
@@ -118,11 +119,11 @@ if (keyIsDown(87)){
 
         let w =110;
         let h =133;
-        image(image(picoImg, posx, posy, 110, 133);
+        image(picoImg, posx, posy, 110, 133);
         secondguyY = 200;
         secondguyY
 //image(secondguy, 200, 200, 96, 128);
-    }
+    } }
   
     
     posx = constrain(posx, 0, width - 110);
