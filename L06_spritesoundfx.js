@@ -8,7 +8,9 @@ function preload(){
     picoImg = loadImage('assets/pico-a.png');
 bgmusic = loadSound('assets/bossaNova.mp3');}
 soundpop = loadsound('assets/pop.mp3');
-
+ let secondguy;
+ let secondguyX = 200;
+ let secondY = 200;
 
 // setup()
 function setup(){
