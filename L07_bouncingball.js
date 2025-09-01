@@ -1,6 +1,7 @@
 // write your codes here
 
 
-function setup() {
-    createCanvas()
+    function setup() {
+createCanvas(600,400); // width, height
+background(220);
 }
