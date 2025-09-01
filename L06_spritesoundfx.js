@@ -5,7 +5,7 @@ let soundpop;
 
 // preload()
 function preload(){
-    static = loadImage('assets/pico-a.png');
+    staticImage = loadImage('assets/pico-a.png');
 bgmusic = loadSound('assets/bossaNova.mp3');}
 soundpop = loadsound('assets/pop.mp3');
  let secondguy;
