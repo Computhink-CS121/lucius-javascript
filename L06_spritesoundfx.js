@@ -107,6 +107,7 @@ function draw(){
 
 if (keyIsDown(87)){
        secondguyY = secondguyY - 5
+}
     if (keyIsDown(RIGHT_ARROW)){
         posx = posx + 5;
     }
@@ -126,7 +127,7 @@ if (keyIsDown(87)){
         secondguyY = 200;
         secondguyY
 image(secondguy, 200, 200, 96, 128);
-    } }
+    } 
   
     
     posx = constrain(posx, 0, width - 110);
