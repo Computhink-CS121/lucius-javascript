@@ -27,8 +27,6 @@ if (keyIsDown(Right_ARROW)) {
 if (x > 400-25) {
     X = 400-25;
 
-
-
 }
 
 }
