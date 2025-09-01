@@ -3,7 +3,8 @@ let x =0;
 let y =0;
 
 let secondguy;
-let secondguyX
+let secondguyX = 200;
+let secondguyY
 
 
 
