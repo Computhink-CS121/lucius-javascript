@@ -29,6 +29,14 @@ if (x > 400-25) {
 }
 }
 
+if (keyIsDown(RIGHT_ARROW)) {
+
+    x = x +5
+}
+
+if (x > 400-25) {
+    X = 400-25;
+}
 
 
 
