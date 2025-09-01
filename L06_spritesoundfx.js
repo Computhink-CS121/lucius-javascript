@@ -33,7 +33,9 @@ function draw () {
     Image(secondguy, secondguyX, secondguyY, 96,128);
 
 
-    
+    if (keyIsDown(87)) {
+        
+    }
 }
 
 
