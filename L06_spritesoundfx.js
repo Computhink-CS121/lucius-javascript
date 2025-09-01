@@ -36,6 +36,9 @@ function draw () {
     if (keyIsDown(87)) {
         secondguyY = secondguyY-5;
     }
+
+    if(keyIsDown(83))
+        secondguyY = secondguyY-5;
 }
 
 
