@@ -12,5 +12,7 @@ function draw() {
     background(80);
     circle(x, height/2, 50);
 
-if (keyIsDown(LEFT_ARROW)) {}
+if (keyIsDown(LEFT_ARROW)) {
+x
+}
 }
