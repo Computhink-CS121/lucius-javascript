@@ -29,7 +29,7 @@ if (x > 400-25) {
 }
 }
 
-if (keyIsDown(RIGHT_ARROW)) {
+if (keyIsDown(UP_ARROW)) {
 
     x = x +5
 }
