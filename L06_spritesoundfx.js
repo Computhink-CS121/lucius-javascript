@@ -99,12 +99,15 @@ function setup(){
 function draw(){
     background(220);
     image(picoImg, posx, posy, 110, 133);
-    let w =110;
+        
+        image(picoImg, posx, posy, 110, 133);
+
+                let w =110;
         let h =133;
         image(picoImg, posx, posy, 110, 133);
         secondguyY = 200;
-        secondguyX = 200;
-
+        secondguyY
+image(secondguy, 200, 200, 96, 128);
 if (keyIsDown(87)){
        secondguyY = secondguyY - 5
 }
@@ -121,12 +124,7 @@ if (keyIsDown(87)){
     if (keyIsDown(DOWN_ARROW)){
         posy = posy + 5;
 
-        let w =110;
-        let h =133;
-        image(picoImg, posx, posy, 110, 133);
-        secondguyY = 200;
-        secondguyY
-image(secondguy, 200, 200, 96, 128);
+
     } 
   
     
