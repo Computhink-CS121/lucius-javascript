@@ -1,5 +1,7 @@
 let soundEffect, bgMusic, staticImage;
-let x 
+let x =0;
+let y =0;
+
 
 
 
