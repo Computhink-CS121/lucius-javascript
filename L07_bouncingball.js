@@ -18,7 +18,13 @@ x = x -5
 
 if (x < 25) {
     X = 25;
+}
+if (keyIsR(LEFT_ARROW)) {
+x = x -5
+}
 
+if (x < 25) {
+    X = 25;
 
 
 
