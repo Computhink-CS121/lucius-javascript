@@ -4,7 +4,8 @@ let y =0;
 
 let secondguy;
 let secondguyX = 200;
-let secondguyY
+let secondguyY = 200;
+
 
 
 
