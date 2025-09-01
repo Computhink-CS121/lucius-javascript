@@ -9,8 +9,8 @@ let secondguyY = 200;
 
 
 function preload() {
-    soundEffect = loadsound("assets/pop.mp3");
-    bgMusic = load
+    soundEffect = loadSound("assets/pop.mp3");
+    bgMusic = loadsound
 }
 
 
