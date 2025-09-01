@@ -27,7 +27,7 @@ function draw () {
 
     let w =110;
     let h =133;
-    
+    Image(staticImage)
 }
 
 
