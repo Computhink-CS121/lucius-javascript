@@ -13,6 +13,6 @@ function draw() {
     circle(x, height/2, 50);
 
 if (keyIsDown(LEFT_ARROW)) {
-x
+x = x -5
 }
 }
