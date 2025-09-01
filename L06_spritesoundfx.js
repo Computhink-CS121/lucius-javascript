@@ -122,7 +122,7 @@ if (keyIsDown(87)){
         image(picoImg, posx, posy, 110, 133);
         secondguyY = 200;
         secondguyY
-//image(secondguy, 200, 200, 96, 128);
+image(secondguy, 200, 200, 96, 128);
     } }
   
     
