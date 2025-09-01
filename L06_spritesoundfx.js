@@ -11,7 +11,7 @@ let secondguyY = 200;
 function preload() {
     soundEffect = loadSound("assets/pop.mp3");
     bgMusic = loadSound("assets/bossaNova.mp3");
-    staticI
+    staticImage = loadImage
 }
 
 
