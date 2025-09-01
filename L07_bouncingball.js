@@ -16,4 +16,5 @@ if (keyIsDown(LEFT_ARROW)) {
 x = x -5
 }
 
+if (x < 25) 
 }
