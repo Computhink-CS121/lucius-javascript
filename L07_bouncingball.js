@@ -24,7 +24,7 @@ if (keyIsDown(Right_ARROW)) {
     x = x +5
 }
 
-if (x < 25) {
+if (x > 400-25) {
     X = 25;
 
 
