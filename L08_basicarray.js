@@ -3,8 +3,8 @@
 
 
 function preload() {
+let soundsfx = loadSound
 
-    
 }
 
 
