@@ -10,7 +10,8 @@ soundsfx = loadSound('assets/star_wars_theme_8_bit.mp3');
 function setup(){
     createCanvas(600,400); // width, height
 background(80);
-textsize
+textsize(32);
+z
 }
 function draw(){
     if (keyIsDown(32) ) {
