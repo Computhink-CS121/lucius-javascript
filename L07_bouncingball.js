@@ -12,9 +12,9 @@ background(80);
 
 
  function draw() {
-//     background(80);
+     background(80);
 //     circle(x, height/2, 50);
-Fill("yellow")
+fill("yellow")
 circle(x,y, ballSize);
 
 
