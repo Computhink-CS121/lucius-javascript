@@ -14,6 +14,8 @@ fill('cyan')
 textSize(32);
 text("Hello my friend!", 20, 50);
 text("Today is Monday!", 20, 90);
+
+let xpos = 100
 }
 
 
