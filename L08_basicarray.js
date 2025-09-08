@@ -16,7 +16,7 @@ text("Hello my friend!", 20, 50);
 text("Today is Monday!", 20, 90);
 text("My name is 67!", 20, 50);
 text("I am 69 this year!", 20, 90);
-text("my favourite !", 20, 90);
+text("my favourite activity is grieving in games!", 20, 90);
 
 let xpos = 100;
 for (let count=0; count<5; count++) {
