@@ -14,7 +14,7 @@ fill('cyan')
 textSize(32);
 text("Hello my friend!", 20, 50);
 text("Today is Monday!", 20, 90);
-text("My name is 67!", 20, 130);
+text("My name is frontman!", 20, 130);
 text("I am 69 this year!", 20, 160);
 text("my favourite activity is grieving in games!", 20, 190);
 
