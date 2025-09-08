@@ -13,6 +13,7 @@ background(80);
 fill('cyan')
 textSize(32);
 text("Hello my friend!", 20, 50);
+text("Hello my friend!", 20, 50);
 }
 function draw(){
     if (keyIsDown(32) ) {
