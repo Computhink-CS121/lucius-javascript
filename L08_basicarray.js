@@ -18,6 +18,8 @@ text("My name is frontman!", 20, 130);
 text("I am 69 this year!", 20, 160);
 text("my favourite activity is grieving in games!", 20, 250);
 
+let fav
+
 let xpos = 100;
 for (let count=0; count<5; count++) {
     circle(xpos,200,50);
