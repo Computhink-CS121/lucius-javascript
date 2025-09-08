@@ -20,6 +20,10 @@ circle(x,y, ballSize);
 
 x = x + speedX;
 y = y + speedY;
+
+if (x > 400) {
+    
+}
 // if (keyIsDown(LEFT_ARROW)) {
 // x = x -5
 // }
