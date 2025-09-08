@@ -15,8 +15,7 @@ function draw() {
     //  circle(x, height/2, 50);
 fill("yellow")
 circle(x,y, ballSize);
-noStroke
-fill( random(0,255), random(0,255), random(0,255))
+noStroke();
 x = x + speedX;
 y = y + speedY;
 
