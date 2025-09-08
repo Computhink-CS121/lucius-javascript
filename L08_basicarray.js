@@ -16,7 +16,7 @@ function draw(){
         soundsfx.play();
     }
 
-    if (keyIsDown(Down_ARROW)) {
+    if (keyIsDown(DOWN_ARROW)) {
     soundsfx.stop();
 
     }
