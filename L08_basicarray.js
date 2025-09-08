@@ -19,7 +19,10 @@ text("I am 69 this year!", 20, 160);
 text("my favourite activity is grieving in games!", 20, 250);
 
 let favFoods = ["pizza", "chicken wings", "bubble tea", "ice cream", "chocolates"];
-for (letindex=0; index < favFoods.length; index++ ) {}
+for (letindex=0; index < favFoods.length; index++ ) {
+
+    console.log
+}
 
 let xpos = 100;
 for (let count=0; count<5; count++) {
