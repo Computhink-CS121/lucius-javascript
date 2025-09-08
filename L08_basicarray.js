@@ -12,10 +12,10 @@ function setup(){
 background(80);
 }
 function draw(){
-    if (keyIsDown(32) )
+    if (keyIsDown(32) ) {
         soundsfx.play();
+    }
 
-}
 if (keyIsDown(Down_ARROW)) {
   soundsfx.stop();
 
