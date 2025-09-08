@@ -11,7 +11,7 @@ function setup(){
     createCanvas(600,400); // width, height
 background(80);
 textsize(32);
-textsize("Hello my friend");
+textsize("Hello my friend!");
 }
 function draw(){
     if (keyIsDown(32) ) {
