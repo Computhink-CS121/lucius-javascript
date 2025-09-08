@@ -8,7 +8,7 @@ function setup() {
 createCanvas(600,400); // width, height
 background(80);
 Fill("yellow")
-circle(x,y)
+circle(x,y, ballSize);
 }
 
 
