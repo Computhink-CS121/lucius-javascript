@@ -15,7 +15,7 @@ function draw() {
     //  circle(x, height/2, 50);
 fill("yellow")
 circle(x,y, ballSize);
-
+noStroke3
 
 x = x + speedX;
 y = y + speedY;
