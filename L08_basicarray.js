@@ -15,16 +15,18 @@ textSize(32);
 text("Hello my friend!", 20, 50);
 text("Today is Monday!", 20, 90);
 }
-function draw(){
-    if (keyIsDown(32) ) {
-        soundsfx.play();
-    }
 
-    if (keyIsDown(DOWN_ARROW)) {
-    soundsfx.stop();
 
-    }
-}
+// function draw(){
+//     if (keyIsDown(32) ) {
+//         soundsfx.play();
+//     }
+
+//     if (keyIsDown(DOWN_ARROW)) {
+//     soundsfx.stop();
+
+//     }
+// }
 
 
 
