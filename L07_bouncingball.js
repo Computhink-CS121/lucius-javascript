@@ -5,7 +5,7 @@ let ballSize = 50;
 let speedX = 2; 
 let speedY = 3;
 function setup() {
-createCanvas(400,400); // width, height
+createCanvas(400,600); // width, height
 background(80);
 
 }
