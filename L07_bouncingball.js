@@ -11,7 +11,8 @@ Fill("yellow")
 circle(x,y, ballSize);
 
 
-x = x + speed
+x = x + speedY
+y = y + speed
 }
 
 
