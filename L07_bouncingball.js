@@ -24,7 +24,9 @@ y = y + speedY;
 if (x > 400) {
     speedX = speedX * (-2)
 }
-if (x < 0)
+if (x < 0){
+    speedX = 
+}
 // if (keyIsDown(LEFT_ARROW)) {
 // x = x -5
 // }
