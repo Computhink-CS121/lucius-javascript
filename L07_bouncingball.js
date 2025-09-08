@@ -28,7 +28,7 @@ if (x < 0+25){
     fill( random(0,255), random(0,255), random(0,255))
 
 }
-if (y > 400-25){
+if (y > 600-25){
     speedY = speedY *(-1)
     fill( random(0,255), random(0,255), random(0,255))
 
