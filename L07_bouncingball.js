@@ -21,10 +21,10 @@ circle(x,y, ballSize);
 x = x + speedX;
 y = y + speedY;
 
-if (x > 400) {
+if (x > 400-25) {
     speedX = speedX * (-1)
 }
-if (x < 0){
+if (x < 0+25){
     speedX = speedX *(-1)
 }
 if (y > 400-25){
