@@ -1,6 +1,7 @@
 // write your codes here
 let x = 50;
-let y = 250;
+let y = 2
+50;
 let ballSize = 50;
 let speedX = 2; 
 let speedY = 3;
