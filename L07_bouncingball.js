@@ -7,7 +7,8 @@ let speedY = 2;
 function setup() {
 createCanvas(600,400); // width, height
 background(80);
-Fill("y")
+Fill("yellow")
+circle(x,y)
 }
 
 
