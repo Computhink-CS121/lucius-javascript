@@ -3,7 +3,8 @@ let soundEffect, bgMusic, staticImage;
 let x =0;
 let y =0;
 let ballSize = 50;
-let speedX = 2;
+let speedX = 2; 
+let speed
 let secondguy;
 let secondguyX = 200;
 let secondguyY = 200;
