@@ -3,7 +3,7 @@
 
 
 function preload() {
-let soundsfx = loadSound
+let soundsfx = loadSound('')
 
 }
 
