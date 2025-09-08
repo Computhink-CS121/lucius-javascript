@@ -27,7 +27,7 @@ if (x < 0+25){
     speedX = speedX *(-1)
 }
 if (y > 400-25){
-    speedX = speedX *(-1)
+    speedY = speedY *(-1)
 }
 if (y < 0+25){
     speedX = speedX *(-1)
