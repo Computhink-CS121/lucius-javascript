@@ -21,7 +21,7 @@ text("my favourite activity is grieving in games!", 20, 250);
 let favFoods = ["pizza", "chicken wings", "bubble tea", "ice cream", "chocolates"];
 for (letindex=0; index < favFoods.length; index++ ) {
 
-    console.log( favFoods)
+    console.log( favFoods[index])
 }
 
 let xpos = 100;
