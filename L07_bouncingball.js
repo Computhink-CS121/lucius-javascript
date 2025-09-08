@@ -9,6 +9,9 @@ createCanvas(600,400); // width, height
 background(80);
 Fill("yellow")
 circle(x,y, ballSize);
+
+
+x = x + speed
 }
 
 
