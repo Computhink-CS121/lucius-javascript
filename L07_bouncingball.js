@@ -7,19 +7,19 @@ let speedY = 2;
 function setup() {
 createCanvas(400,400); // width, height
 background(80);
+
+}
+
+
+ function draw() {
+//     background(80);
+//     circle(x, height/2, 50);
 Fill("yellow")
 circle(x,y, ballSize);
 
 
 x = x + speedX;
 y = y + speedY;
-}
-
-
-// function draw() {
-//     background(80);
-//     circle(x, height/2, 50);
-
 // if (keyIsDown(LEFT_ARROW)) {
 // x = x -5
 // }
@@ -44,7 +44,7 @@ y = y + speedY;
 
 // if (x > 400-25) {
 //     X = 400-25;
-// }
+ }
 
 
 
