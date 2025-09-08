@@ -6,6 +6,7 @@ let ballSize = 50;
 let speedX = 2; 
 let speedY = 2;
 
+
 let secondguy;
 let secondguyX = 200;
 let secondguyY = 200;
