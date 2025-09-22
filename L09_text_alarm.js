@@ -19,8 +19,9 @@ function setup(){
      let aHour = hour() -12;
      aHour = nf(aHour, 2);
      let aMinute = minute();
-     aMinute = nf(aHour, 2);
+     aMinute = nf(aMinute, 2);
      let aSecond = second();
+      aMinute = nf(aMinute, 2);
       textSize(32);
             textAlign(CENTER, CENTER)
      fill("red")
