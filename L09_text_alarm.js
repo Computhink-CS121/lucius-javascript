@@ -33,7 +33,7 @@ function setup(){
       text("time now" + aHour + ":" + aMinute + ":" + aSecond, width/2, height/2);
  }
 
- function mousePressed(){
+ function keyPressed(){
      sfx.play();
  }
  function mousePressed(){
