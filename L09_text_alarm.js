@@ -1,1 +1,15 @@
 // write your codes here
+
+
+
+
+
+
+function setup(){
+     createCanvas(600,1400);
+     background(80)
+     background("black");
+}
+
+
+function draw(){}
