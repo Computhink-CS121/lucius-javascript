@@ -36,7 +36,11 @@ function setup(){
  function mousePressed(){
      sfx.play();
  }
- function mousePressed(){}
+ function mousePressed(){
+     if(keyCode === 32) {
+          
+     }
+ }
  
 //     xpos = xpos + velocityX;
 //     if (xpos > width) {
