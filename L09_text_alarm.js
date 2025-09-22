@@ -38,7 +38,7 @@ function setup(){
  }
  function mousePressed(){
      if(keyCode === 32) {
-          bgcolor = color( random(255), random(255))
+          bgcolor = color( random(255), random(255) );
      }
  }
  
