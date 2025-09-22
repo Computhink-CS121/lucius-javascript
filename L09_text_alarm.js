@@ -13,13 +13,13 @@ function preload() {
 function setup(){
      createCanvas(600,400);
      background(80)
-     background("pink");
+     background("by");
      xpos = width/2
 }
 
 
  function draw(){
-      background("pink");
+      background("bgcolor");
 
      let aHour = hour() -12;
      aHour = nf(aHour, 2);
