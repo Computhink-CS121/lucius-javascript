@@ -31,6 +31,7 @@ function setup(){
             textAlign(CENTER, CENTER)
      fill("red")
       text("time now" + aHour + ":" + aMinute + ":" + aSecond, width/2, height/2);
+      text("")
  }
 
  function mousePressed(){
