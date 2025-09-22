@@ -36,6 +36,7 @@ function setup(){
  function mousePressed(){
      sfx.play();
  }
+ function mousePressed(){}
  
 //     xpos = xpos + velocityX;
 //     if (xpos > width) {
