@@ -21,7 +21,7 @@ function setup(){
      let aMinute = minute();
      aMinute = nf(aMinute, 2);
      let aSecond = second();
-      aMinute = nf(aMinute, 2);
+      aSecond = nf(a, 2);
       textSize(32);
             textAlign(CENTER, CENTER)
      fill("red")
