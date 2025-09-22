@@ -17,7 +17,7 @@ function setup(){
       background("pink");
 
      let aHour = hour() -12;
-     aHour
+     aHour = nf(aHour)
      let aMinute = minute();
      let aSecond = second();
       textSize(32);
