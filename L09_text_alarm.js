@@ -2,7 +2,9 @@
 let xpos
 let velocityX = 0.6
 
-
+function preload() {
+     
+}
 
 
 function setup(){
