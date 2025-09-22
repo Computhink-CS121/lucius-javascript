@@ -1,21 +1,45 @@
 // write your codes here
-
-
+let xpos
+let velocityX = 0.6
 
 
 
 
 function setup(){
-     createCanvas(600,1400);
+     createCanvas(600,400);
      background(80)
-     background("black");
+     background("pink");
+     xpos = width/2
 }
 
 
-function draw(){}
+ function draw(){
+      background("pink");
 
+     let aHour = hour() -12;
+     let aMinute = minute();
+     let aSecond = second();
+      textSize(32);
+            textAlign(CENTER, CENTER)
+     fill("red")
+      text("time now" + aHour + ":" + aMinute + ":" + aSecond, width/2, height/2);
+//     xpos = xpos + velocityX;
+//     if (xpos > width) {
+//      velocityX = velocityX * -1;
+//     }
+//     else if (xpos < -60){
+//      velocityX = velocityX * -1;
 
+//     }
+//     else if (xpos < 0+60){
+//      velocityX = velocityX * -1;
 
+//     }
+}
+    
+
+   
+    
 
 
 

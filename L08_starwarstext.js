@@ -15,7 +15,16 @@ function setup(){
 
 
 function draw() {
-    background(80);
+    25;
+
+    }
+    ypos = ypos - 0.6;
+    
+    if(ypos < 0){
+        ypos = height
+    }
+}
+background(80);
     if (keyIsDown(32)) {
         soundsfx.play();
     }
@@ -39,16 +48,7 @@ function draw() {
     let textY = 0;
     for (let index=0; index < starwars.length; index++) {
         text(starwars[index], 0, textY);
-        textY = textY + 25;
-
-    }
-    ypos = ypos - 0.6;
-    
-    if(ypos < 0){
-        ypos = height
-    }
-}
-
+        textY = textY + 
 
 
 
