@@ -1,9 +1,12 @@
 // write your codes here
-let xpos
-let velocityX = 0.6
+let xpos;
+let velocityX = 0.6;
+let sfx;
+
 
 function preload() {
-     
+     sfx = loadSound("assets/DunDunDunnn.mp3");
+
 }
 
 
@@ -28,6 +31,12 @@ function setup(){
             textAlign(CENTER, CENTER)
      fill("red")
       text("time now" + aHour + ":" + aMinute + ":" + aSecond, width/2, height/2);
+ }
+
+ function mousePressed(){
+     sfx.play();
+ }
+ 
 //     xpos = xpos + velocityX;
 //     if (xpos > width) {
 //      velocityX = velocityX * -1;
@@ -40,7 +49,7 @@ function setup(){
 //      velocityX = velocityX * -1;
 
 //     }
-}
+
     
 
    
