@@ -13,7 +13,7 @@ function preload() {
 function setup(){
      createCanvas(600,400);
      background(80)
-     background("by");
+     background("bgcolor");
      xpos = width/2
 }
 
