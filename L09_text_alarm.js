@@ -19,7 +19,7 @@ function setup(){
      background(bgcolor);
      xpos = width/2
 
-     objectID = set
+     objectID = setInterval():
 }
 
 
