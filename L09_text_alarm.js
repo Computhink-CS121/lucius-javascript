@@ -3,6 +3,7 @@ let xpos;
 let velocityX = 0.6;
 let sfx;
 let bgcolor = "pink";
+
 let objectID
 let counter = 10;
 
