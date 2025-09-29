@@ -4,7 +4,9 @@ function setup(){
 }
 
 
-function draw() {}
+function draw() {
+    fill(white)
+}
 
 
 
