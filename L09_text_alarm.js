@@ -51,7 +51,7 @@ let pie = 3.1415912345567;
 console.log(nf(pie, 1, 3));
 }
  function mousePressed(){
-     sfx.play();
+     //sfx.play();
  }
  function keyPressed(){
      if(keyCode === 18) {
