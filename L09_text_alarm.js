@@ -23,7 +23,7 @@ if(counter === 0) {
 }
 let colorChanged = 0;
 function changeColor(){
-     color-Changed++;
+     colorChanged++;
      if (colorChanged > 5){
            clearInterval( objectID);
      }
