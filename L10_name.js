@@ -1,5 +1,5 @@
 
-
+let bgColor 
 
 function setup(){
      createCanvas(600,400);
