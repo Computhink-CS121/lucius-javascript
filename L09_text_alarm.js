@@ -8,6 +8,7 @@ let objectID
 let counter = 10;
 
 let secondID;
+function preload(){}
 
 function countdown(){
  counter--; 
