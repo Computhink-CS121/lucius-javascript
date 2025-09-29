@@ -5,7 +5,7 @@ let sfx;
 let bgcolor = "pink";
 
 let objectID
-let counter = 
+let counter = 10;
 
 function preload() {
      sfx = loadSound("assets/DunDunDunnn.mp3");
