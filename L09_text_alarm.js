@@ -40,7 +40,7 @@ console.log(nf(pie, 1, 3));
      sfx.play();
  }
  function keyPressed(){
-     if(keyCode ===2) {
+     if(keyCode === 32) {
           bgcolor = col
      or( random(255), random(255), random(255)  );
      }
