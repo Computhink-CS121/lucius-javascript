@@ -9,7 +9,7 @@ function countdown(){
  counter--; 
 counter = constrain(counter, 0, 10);
 let objectID
-let counter
+let counter = 10;
 
 if(counter === 0) 
      sfx.play();
