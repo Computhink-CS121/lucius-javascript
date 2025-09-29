@@ -4,7 +4,7 @@ let velocityX = 0.6;
 let sfx;
 let bgcolor = "pink";
 
-let objectID;
+
 function countdown(){
 let counter = 10;
 counter = constrain(counter, 0, 10);
