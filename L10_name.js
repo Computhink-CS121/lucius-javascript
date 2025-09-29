@@ -12,6 +12,7 @@ function setup(){
 
 
 function draw() {
+    colorPicker
     fill("white");
     rect(100,50,400,100, 25);
 }
