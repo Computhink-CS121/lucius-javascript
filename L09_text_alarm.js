@@ -18,7 +18,7 @@ if(counter === 0) {
      sfx.play();
      clearInterval( objectID);
 
-      secondID =  setInterval(,)
+      secondID =  setInterval(changeColor,500);
 }
 }
 function preload() {
