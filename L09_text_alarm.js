@@ -16,6 +16,7 @@ if(counter === 0) {
      sfx.play();
      clearInterval( objectID);
 }
+}
 function preload() {
      sfx = loadSound("assets/DunDunDunnn.mp3");
 
