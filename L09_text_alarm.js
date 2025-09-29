@@ -9,7 +9,7 @@ let counter = 10;
 
 let secondID;
 function preload(){
-     sfx = loadsound("")
+     sfx = loadsound("assets/")
 }
 
 function countdown(){
