@@ -35,7 +35,7 @@ function setup(){
       text("0", width/2, 225)
 text("click me to start timer", width/2, 290);
 pie = 3.1415912345567;
-console.log()
+console.log(nf(pie, 1, 2))
  function mousePressed(){
      sfx.play();
  }
