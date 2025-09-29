@@ -4,6 +4,8 @@ let velocityX = 0.6;
 let sfx;
 let bgcolor = "pink";
 
+let ob
+
 function preload() {
      sfx = loadSound("assets/DunDunDunnn.mp3");
 
