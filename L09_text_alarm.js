@@ -21,7 +21,9 @@ if(counter === 0) {
       secondID =  setInterval(changeColor,500);
 }
 }
-function changeColor(){}
+function changeColor(){
+     bgcolor = color
+}
 function preload() {
      sfx = loadSound("assets/DunDunDunnn.mp3");
 
