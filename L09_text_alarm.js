@@ -53,7 +53,7 @@ console.log(nf(pie, 1, 3));
  function mousePressed(){
      //sfx.play();
      if (counter === 10) {
-          objectID = setInterval(countdown, 1000)
+          objectID = setInterval(countdown, 1000);
      }
  }
  function keyPressed(){
