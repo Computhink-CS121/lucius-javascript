@@ -49,7 +49,7 @@ function countdown() {
      fill("red")
       text("time now" + aHour + ":" + aMinute + ":" + aSecond, width/2, height/2);
       text("Countdown Timer", width/2, 180)
-      text("counter", width/2, 270)
+      text(counter, width/2, 270)
 text("click me to start timer", width/2, 300);
 let pie = 3.1415912345567;
 console.log(nf(pie, 1, 3));
