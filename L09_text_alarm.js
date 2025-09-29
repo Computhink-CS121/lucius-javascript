@@ -3,13 +3,13 @@ let xpos;
 let velocityX = 0.6;
 let sfx;
 let bgcolor = "pink";
-
+let objectID
+let counter = 10;
 
 function countdown(){
  counter--; 
 counter = constrain(counter, 0, 10);
-let objectID
-let counter = 10;
+
 
 if(counter === 0) 
      sfx.play();
