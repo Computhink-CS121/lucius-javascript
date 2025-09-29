@@ -34,7 +34,7 @@ function setup(){
       text("Countdown Timer", width/2, 200)
       text("0", width/2, 225)
 text("click me to start timer", width/2, 290);
-pie = 3.141
+pie = 3.141591234
  function mousePressed(){
      sfx.play();
  }
