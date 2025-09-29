@@ -8,7 +8,8 @@ let bgcolor = "pink";
 function countdown(){
  counter--; 
 counter = constrain(counter, 0, 10);
-
+let objectID
+let counter
 
 if(counter === 0) 
      sfx.play();
