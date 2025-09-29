@@ -27,7 +27,7 @@ function setup(){
      aMinute = nf(aMinute, 2);
      let aSecond = second();
       aSecond = nf(aSecond, 2);
-      textSize(32);
+      textSize(18);
             textAlign(CENTER, CENTER)
      fill("red")
       text("time now" + aHour + ":" + aMinute + ":" + aSecond, width/2, height/2);
@@ -40,7 +40,7 @@ console.log(nf(pie, 1, 3));
      sfx.play();
  }
  function keyPressed(){
-     if(keyCode === 32) {
+     if(keyCode ===2) {
           bgcolor = col
      or( random(255), random(255), random(255)  );
      }
