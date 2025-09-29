@@ -18,6 +18,7 @@ function setup(){
      background(80)
      background(bgcolor);
      xpos = width/2
+     
 }
 
 
