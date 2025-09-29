@@ -32,9 +32,9 @@ function setup(){
      fill("red")
       text("time now" + aHour + ":" + aMinute + ":" + aSecond, width/2, height/2);
       text("Countdown Timer", width/2, 190)
-      text("0", width/2, 260)
+      text("0", width/2, 270)
 text("click me to start timer", width/2, 300);
-pie = 3.1415912345567;
+let pie = 3.1415912345567;
 console.log(nf(pie, 1, 3));
  function mousePressed(){
      sfx.play();
