@@ -30,7 +30,7 @@ function changeColor(){
      bgcolor = color(random(255), random(255), random(255));
 }
 function draw() {
-     sfx = loadSound("assets/DunDunDunnn.mp3");
+     background()
 
 }
 
