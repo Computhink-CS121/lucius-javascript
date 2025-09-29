@@ -22,7 +22,7 @@ if(counter === 0) {
 }
 }
 function changeColor(){
-     bgcolor = color(random(255), random(255), random(255))
+     bgcolor = color(random(255), random(255), random(255));
 }
 function preload() {
      sfx = loadSound("assets/DunDunDunnn.mp3");
