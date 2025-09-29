@@ -24,6 +24,7 @@ if(counter === 0) {
 let colorChanged = 0;
 function changeColor(){
      color-Changed++;
+     if (colorChan)
      bgcolor = color(random(255), random(255), random(255));
 }
 function preload() {
