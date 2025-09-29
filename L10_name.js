@@ -4,6 +4,8 @@ function setup(){
 }
 
 
+function draw() {}
+
 
 
 
