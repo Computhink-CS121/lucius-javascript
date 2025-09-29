@@ -6,7 +6,7 @@ function setup(){
 
 function draw() {
     fill("white");
-    rect(100,50,400)
+    rect(100,50,400,100);
 }
 
 
