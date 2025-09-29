@@ -11,7 +11,7 @@ counter = constrain(counter, 0, 10);
 
 if(counter === 0) {
      sfx.play();
-     clearInterval()
+     clearInterval( objectID);
 }
 function preload() {
      sfx = loadSound("assets/DunDunDunnn.mp3");
