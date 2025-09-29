@@ -42,8 +42,7 @@ console.log(nf(pie, 1, 3));
  }
  function keyPressed(){
      if(keyCode === 18) {
-          bgcolor = col
-     or( random(255), random(255), random(255)  );
+          bgcolor = color( random(255), random(255), random(255)  );
      }
  }
 
