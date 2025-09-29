@@ -52,6 +52,9 @@ console.log(nf(pie, 1, 3));
 }
  function mousePressed(){
      //sfx.play();
+     if (counter === 10) {
+          
+     }
  }
  function keyPressed(){
      if(keyCode === 18) {
