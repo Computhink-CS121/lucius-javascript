@@ -23,7 +23,7 @@ if(counter === 0) {
 }
 let colorChanged = 0;
 function changeColor(){
-     color-
+     color-Changed++;
      bgcolor = color(random(255), random(255), random(255));
 }
 function preload() {
