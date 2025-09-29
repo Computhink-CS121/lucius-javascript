@@ -65,11 +65,11 @@ console.log(nf(pie, 1, 3));
           objectID = setInterval(countdown, 1000);
      }
  }
- function keyPressed(){
-     if(keyCode === 18) {
-          bgcolor = color( random(255), random(255), random(255)  );
-     }
- }
+//  function keyPressed(){
+//      if(keyCode === 18) {
+//           bgcolor = color( random(255), random(255), random(255)  );
+//      }
+//  }
 
 //     xpos = xpos + velocityX;
 //     if (xpos > width) {
