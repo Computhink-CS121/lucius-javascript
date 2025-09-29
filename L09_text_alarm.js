@@ -29,7 +29,7 @@ function changeColor(){
      }
      bgcolor = color(random(255), random(255), random(255));
 }
-function preload() {
+function draw() {
      sfx = loadSound("assets/DunDunDunnn.mp3");
 
 }
