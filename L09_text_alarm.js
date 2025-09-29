@@ -8,7 +8,9 @@ let objectID
 let counter = 10;
 
 let secondID;
-function preload(){}
+function preload(){
+     sfx = loadsound("")
+}
 
 function countdown(){
  counter--; 
