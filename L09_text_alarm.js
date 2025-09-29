@@ -24,7 +24,9 @@ if(counter === 0) {
 let colorChanged = 0;
 function changeColor(){
      color-Changed++;
-     if (colorChanged > 5){}
+     if (colorChanged > 5){
+           clearInterval( objectID);
+     }
      bgcolor = color(random(255), random(255), random(255));
 }
 function preload() {
