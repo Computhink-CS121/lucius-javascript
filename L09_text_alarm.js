@@ -12,7 +12,7 @@ function countdown(){
 counter = constrain(counter, 0, 10);
 
 
-if(counter === 0) 
+if(counter === 0) {
      sfx.play();
      clearInterval( objectID);
 }
