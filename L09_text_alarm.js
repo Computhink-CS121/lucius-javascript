@@ -23,7 +23,7 @@ function setup(){
 }
 
 function countdown() {
-     counter
+     counter--;
 }
  function draw(){
       background(bgcolor);
