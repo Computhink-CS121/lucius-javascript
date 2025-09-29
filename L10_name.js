@@ -4,7 +4,7 @@ let colorPicker;
 
 function setup(){
      createCanvas(600,400);
-     background("black");
+     background("bgcolor");
 }
 
 
