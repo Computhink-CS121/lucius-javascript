@@ -22,7 +22,7 @@ function setup(){
      objectID = setInterval(countdown, 1000);
 }
 
-
+function countdown() {}
  function draw(){
       background(bgcolor);
 
