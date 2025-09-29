@@ -1,5 +1,5 @@
 
-let bgColor 
+let bgColor = "purple";
 
 function setup(){
      createCanvas(600,400);
