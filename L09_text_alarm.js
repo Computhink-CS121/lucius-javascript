@@ -39,10 +39,11 @@ function setup(){
  }
  function keyPressed(){
      if(keyCode === 32) {
-          bgcolor = color( random(255), random(255), random(255)  );
+          bgcolor = col
+     or( random(255), random(255), random(255)  );
      }
  }
- 
+}
 //     xpos = xpos + velocityX;
 //     if (xpos > width) {
 //      velocityX = velocityX * -1;
