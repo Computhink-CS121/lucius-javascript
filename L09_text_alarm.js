@@ -32,7 +32,7 @@ function setup(){
      fill("red")
       text("time now" + aHour + ":" + aMinute + ":" + aSecond, width/2, height/2);
       text("Countdown Timer", width/2, 130)
-      text("0", width/2, 150)
+      text("0", width/2, 160)
 
  function mousePressed(){
      sfx.play();
