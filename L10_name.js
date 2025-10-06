@@ -8,9 +8,9 @@ let userinput;
 
 function setup(){
      createCanvas(600,400);
-     background("bgcolor");
+     background(bgcolor);
 
-     colorPicker = createColorPicker();
+     colorPicker = createColorPicker(bgColor);
      colorPicker.position(width/2, height/2+85)
       userInput = createInput(username);
     userInput.position(width/2, height/2 + 120)
