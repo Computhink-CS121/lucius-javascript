@@ -30,7 +30,7 @@ function draw() {
 
     textAlign(RIGHT, CENTER);
     textsize(18);
-
+    text
     text("Enter your name:", width/2, height/2+82);
 }
 
