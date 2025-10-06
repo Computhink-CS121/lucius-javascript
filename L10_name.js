@@ -2,7 +2,7 @@
 let bgColor = "purple";
 let colorPicker;
 
-let username = "david"
+let username = "david";
 let userinput;
 
 
