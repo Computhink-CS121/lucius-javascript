@@ -17,7 +17,7 @@ function setup(){
     userInput.input(updateName);
 }
 function updateName(){
-    username = userInput.value
+    username = userInput.value();
 }
 
 function draw() {
@@ -27,6 +27,8 @@ function draw() {
     fill("black");
     textSize(44);
     text(username, 150, 100);
+
+    text
 }
 
 
