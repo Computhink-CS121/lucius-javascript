@@ -7,7 +7,7 @@ function setup(){
      background("bgcolor");
 
      colorPicker = createColorPicker();
-     colorPicker.position(width/2, height/2+300)
+     colorPicker.position(width/2, height/2+500)
 }
 
 
