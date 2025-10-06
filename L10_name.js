@@ -26,7 +26,7 @@ function setup(){
 }
 
 dobInput = createInput(dob, "date");
-dobInput.position(width/2)
+dobInput.position(width/2,height/2 )
 function updateAge(){
     age = ageInput.value();
 }
