@@ -2,7 +2,7 @@
 let bgColor = "purple";
 let colorPicker;
 
-
+let username = 
 function setup(){
      createCanvas(600,400);
      background("bgcolor");
