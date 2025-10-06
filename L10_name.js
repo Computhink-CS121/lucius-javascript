@@ -31,8 +31,8 @@ function draw() {
 
     textAlign(RIGHT, CENTER);
     textSize(18);
-    text("Change color here:",width/2, height/2+50);
-    text("Enter your name:", width/2, height/2+82);
+    text("Change color here:",width/2, height/2+80);
+    text("Enter your name:", width/2, height/2+132);
 }
 
 
