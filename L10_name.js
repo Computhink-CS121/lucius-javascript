@@ -1,5 +1,5 @@
 
-let bgColor = "hotpink";
+let bgColor = "purple";
 let colorPicker;
 
 let username = "david";
