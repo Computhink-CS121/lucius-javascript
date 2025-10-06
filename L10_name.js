@@ -24,6 +24,8 @@ function setup(){
     ageInput.input(updateAge);
     
 }
+
+dobInput
 function updateAge(){
     age = ageInput.value();
 }
