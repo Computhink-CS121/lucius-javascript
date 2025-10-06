@@ -25,7 +25,7 @@ function setup(){
     
 }
 function updateAge(){
-    age = ageInput.value
+    age = ageInput.value();
 }
 function updateName(){
     username = userInput.value();
