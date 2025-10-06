@@ -3,6 +3,7 @@ let bgColor = "purple";
 let colorPicker;
 
 let username = "david"
+let user
 function setup(){
      createCanvas(600,400);
      background("bgcolor");
