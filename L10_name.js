@@ -15,7 +15,7 @@ function setup(){
 }
 
  userInput = createInput(username);
- userInput.position
+ userInput.position()
 function draw() {
     background( colorPicker.value());
     fill("white");
