@@ -5,7 +5,7 @@ let userinput;
 function setup (){
 createCanvas(600,600); // width, height
 background("black");
- colorPicker.position(width/2, height/2+85)
+ 
  userInput = createInput(username);
     userInput.position(width/2, height/2 + 120)
     userInput.input(updateName);
