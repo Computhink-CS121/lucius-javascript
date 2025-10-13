@@ -19,7 +19,7 @@ button1.mousePressed(changeText)
 story = 0;
 
 sometextInput = createInput();
-sometextInput
+sometextInput.position(50,50);
 }
 function changeText(){
     story++
