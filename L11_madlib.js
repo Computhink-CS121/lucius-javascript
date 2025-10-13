@@ -10,7 +10,9 @@ button1.position(50,50)
 button1.size(100,80)
 button1.mousePressed(changeText)
 }
-
+function changeText(){
+    
+}
 
 
 function draw() {
