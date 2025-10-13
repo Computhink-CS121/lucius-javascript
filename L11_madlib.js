@@ -1,6 +1,6 @@
 let button1;
 function setup() {
-createCanvas(600,400); // width, height
+createCanvas(600,600); // width, height
 background("black");
 
 
