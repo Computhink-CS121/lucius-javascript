@@ -1,5 +1,5 @@
 let button1;
-let story
+let story;
 function setup() {
 createCanvas(600,600); // width, height
 background("black");
