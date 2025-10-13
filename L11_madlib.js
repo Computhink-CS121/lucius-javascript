@@ -12,7 +12,7 @@ button1.size(100,80)
 
 
 function draw() {
-    background(220);
+   fill("");
 }
 
 
