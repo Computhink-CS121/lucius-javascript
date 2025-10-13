@@ -5,7 +5,7 @@ background("black");
 }
 
 button1 = createButton("Click on me!");
-button1.position(100,100)
+button1.position(100,80)
  
 
 
