@@ -36,7 +36,8 @@ function draw() {
    
    fill("pink");
    textSize(18);
-   textAlign(RIGHT,CENTER)
+   textAlign(RIGHT,CENTER);
+   
 
   
 }
