@@ -34,7 +34,8 @@ function draw() {
    textAlign(CENTER,CENTER);
    text(story, 300,320);
    
-   fill("pink")
+   fill("pink");
+   text
 
   
 }
