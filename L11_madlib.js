@@ -6,7 +6,7 @@ background("black");
 
 button1 = createButton("Click on me!");
 button1.position(100,80)
-
+button1.size
 }
 
 
