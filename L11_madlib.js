@@ -33,9 +33,9 @@ function draw() {
    text(story, 300,320);
    textAlign(RIGHT, CENTER);
     textSize(18);
-    text("Change color here:",width/2, height/2+100);
+    
     text("Enter your name:", width/2, height/2+132);
-    text("Enter your age:", width/2,height/2+82);
+   
 
   
 }
