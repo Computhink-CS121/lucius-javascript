@@ -21,7 +21,7 @@ story = 0;
 sometextInput = createInput();
 sometextInput.position(50,50);
 }
-function changeText("e.g. a boy"){
+function changeText(){
    story = sometextInput.value();
     story++
 }
