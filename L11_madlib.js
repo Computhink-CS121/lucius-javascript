@@ -19,7 +19,7 @@ function draw() {
    story = "HAPPY"
    textSize(48)
    textAlign(CENTER,CENTER);
-   text()
+   text(story, 300,4)
 }
 
 
