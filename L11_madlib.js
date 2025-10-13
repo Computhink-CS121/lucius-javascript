@@ -20,7 +20,7 @@ sometextInput.position(50,50);
 }
 function changeText(){
    story = sometextInput.value();
-    story++
+    
 }
 
 
@@ -33,10 +33,7 @@ function draw() {
    textSize(48)
    textAlign(CENTER,CENTER);
    text(story, 300,320);
-   textAlign(RIGHT, CENTER);
-    textSize(18);
-    
-    text("Enter your name:", width/2, height/2+132);
+   
    
 
   
