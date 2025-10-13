@@ -1,3 +1,4 @@
+let button
 function setup() {
 createCanvas(600,400); // width, height
 background(220);
