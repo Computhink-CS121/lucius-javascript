@@ -1,8 +1,14 @@
 let button1;
 let story;
-function setup() {
+let username = "david";
+let userinput;up()
+function setup (){
 createCanvas(600,600); // width, height
 background("black");
+ userInput = createInput(username);
+    userInput.position(width/2, height/2 + 120)
+    userInput.input(updateName);
+
 
 
 button1 = createButton("Click on me!");
