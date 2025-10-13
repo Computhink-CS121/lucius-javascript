@@ -1,7 +1,6 @@
 let button1;
 let story;
-let username = "david";
-let userinput;
+
 function setup (){
 createCanvas(600,600); // width, height
 background("black");
