@@ -18,7 +18,8 @@ function draw() {
    rect(100,200,400,300,25)
    story = "HAPPY"
    textSize(48)
-   textAlign(CENTER,CENTER)
+   textAlign(CENTER,CENTER);
+   text()
 }
 
 
