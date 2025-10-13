@@ -16,7 +16,7 @@ function draw() {
    fill("hotpink");
    noStroke();
    rect(100,200,400,300,25)
-   fill()
+   fill("white");
    story = "HAPPY"
    textSize(48)
    textAlign(CENTER,CENTER);
