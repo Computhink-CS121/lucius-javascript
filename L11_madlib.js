@@ -13,7 +13,7 @@ button1.size(100,80)
 
 function draw() {
    fill("hotpink");
-   rect()
+   rect(100,200,400)
 }
 
 
