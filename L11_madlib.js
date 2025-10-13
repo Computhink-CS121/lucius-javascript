@@ -35,7 +35,8 @@ function draw() {
    text(story, 300,320);
    
    fill("pink");
-   text
+   textSize(18);
+   
 
   
 }
