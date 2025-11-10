@@ -36,6 +36,8 @@ function generateHints() {
 }
 
 function checkAnswer() {
+
+    mes
     message = "You guessed it! The hidden word is 'beach'";
 }
 
