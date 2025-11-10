@@ -36,9 +36,10 @@ function generateHints() {
 }
 
 function checkAnswer() {
+    if()
 
     message = "wrong! Try again"
-    message = "You guessed it! The hidden word is 'beach'";
+    message = "You guessed it! The hidden word is 'beach";
 }
 
 function draw() {
