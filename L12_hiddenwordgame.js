@@ -36,7 +36,7 @@ function generateHints() {
 }
 
 function checkAnswer() {
-    let userinput
+    let userinput = textInput.vau
 
     
     message = "You guessed it! The hidden word is 'beach";
