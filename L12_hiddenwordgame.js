@@ -41,8 +41,9 @@ function checkAnswer() {
     if(userinput === selected){
     message = "You guessed it! The hidden word is 'beach";
     }
-    else{}
+    else{
     message = "wrong! Try again"
+    }
 }
 
 function draw() {
