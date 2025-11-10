@@ -42,7 +42,7 @@ function checkAnswer() {
     message = "You guessed it! The hidden word is " + selected;
     }
     else{
-    message = "wrong! Try again"
+    let foundletters = ""
     }
 }
 
