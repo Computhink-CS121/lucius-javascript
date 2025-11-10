@@ -45,13 +45,17 @@ function checkAnswer() {
     let foundletters = "";
     for (let index=0; index<selected.length; index++) {
         if(selected[index] === userinput[index]){
-            foundletters = foundletters + selected[index] +" ";
-        }
+            foundletters = foundletters + selected[index] + " ";
 
     }
+    }
+    if (foundletters.length === 0){
+        message = "wrong! Try again!";
+    }else{
+    message = "wrong! Correct letters are " + foundletters
+}
     }
 }
-
 function draw() {
     background("lightblue");
 
